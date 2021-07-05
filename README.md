@@ -7,3 +7,7 @@
 
 - requests
 - pyjwt
+
+## Server:
+
+- Sensor data posted to an api hosted at Heroku: https://pisense-server.herokuapp.com
