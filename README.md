@@ -7,6 +7,8 @@
 
 - requests
 - pyjwt
+- python-dotenv
+- sense_hat
 
 ## Server:
 
